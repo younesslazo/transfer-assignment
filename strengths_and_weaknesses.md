@@ -4,3 +4,4 @@
 
 #Weaknesses
 1. Git can be problematic because of Merge conflicts
+2. Git can be difficult to manage when you have a large repository 
