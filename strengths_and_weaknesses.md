@@ -1,0 +1,3 @@
+#Strenghs
+
+#Weaknesses
