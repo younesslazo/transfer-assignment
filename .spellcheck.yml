@@ -4,3 +4,5 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+  dictionary:
+    file: .wordlist

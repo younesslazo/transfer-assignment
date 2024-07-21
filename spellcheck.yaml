@@ -1,0 +1,4 @@
+document:
+  - path: '**/*.md'
+    dictionary:
+      language: en_US
