@@ -1,5 +1,5 @@
 # How to use `git`
-1. Initialize a repository with `git init`
+1. Initialize a repository with `git`
 2. Stage your files with `git add <file>`
 3. Whenever you made a substantial change, put it into the history with `git commit -m "Commit message"`
 4. See your history with `git log`
